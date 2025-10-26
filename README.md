@@ -1,4 +1,4 @@
-# Customer-Report-# 🧠 SQL Customer Analysis Project
+# 🧠 SQL Customer Analysis Project
 
 ### 📊 Overview
 This project focuses on **Customer Behavior Analysis** using **Advanced SQL** techniques.  
